@@ -1,2 +1,3 @@
 chicken-biryani.jpg src = https://www.indianhealthyrecipes.com/wp-content/uploads/2021/12/chicken-biryani.jpg
-pancake.jpg src = https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2433255.jpg
+pancake.jpeg src = https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2433255.jpg
+taco.jpg src = https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1012733.jpg
