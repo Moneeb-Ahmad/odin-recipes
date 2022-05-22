@@ -1,0 +1,35 @@
+* {
+	text-align: center;
+}
+body {
+	background-color: #D5ECC2;
+	margin: 0px;
+	font-family: 'Uchen', serif;
+}
+
+ul, 
+ol {
+	list-style-position: inside;
+	display:inline;
+	padding: 0px;
+}
+
+li {
+	width: 100%; 
+	padding: 5px;
+	text-align: center;
+	border: 0px;
+	word-break: break-word; 
+	 
+}
+
+img {
+	width: 400px;
+	height: auto;
+}
+.home {
+	border-style: solid;
+	font-size: 20px;
+}
+
+
